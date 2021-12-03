@@ -12,3 +12,7 @@ By finishing this project i will review the basics of HTML :
 3. Images
 4. Links
 5. Headings
+
+# CSS part 
+
+I recently added a css file to the project, to play with some styling.
